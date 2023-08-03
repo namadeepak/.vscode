@@ -1,0 +1,63 @@
+/*   Home.html  */
+.navbar {
+    background-color: #8fbc8f;
+    height: 70px;
+     
+  }
+
+#image-logo{
+    width: 70px;
+    height: 60px;
+}
+.jumbotron-fluid {
+    background-color: white;
+    
+}
+.container-fluid > img{
+    width: 100%;
+    margin-top: -50px;
+}
+.home-header {
+    font-style: italic;
+    position: absolute;
+    margin-left: 270px;
+    color: white;
+    margin-top: 90px;
+ 
+  }
+ 
+  .home-para {
+    font-style: oblique;
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 130px;
+    margin-right: 80px;
+    color: white;
+    font-size: smaller;
+ 
+  }
+#corouselitem{
+    margin-top: -85px;
+}
+.down2footer{
+    color:  #8fbc8f;
+}
+#common-footer-home{
+    margin-top: -85px;
+}
+
+
+ 
+  #headerborder-3 {
+ 
+    border: 2px ridge black;
+    width: fit-content;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+ 
+  }
+  
+ 
+ 
+ 
